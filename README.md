@@ -4,7 +4,7 @@
 > ___"How do microbiomes behave in obesity?"___
 
 ## Goal description
-
+The aim of the project was to extract the metadata of publications on the topic of microbiome obesity from the PubMed metadatabase using the Entrez API. The data was to be stored in a data frame and entered into the ORKG database. 
 
 ### What is ORKG?
 "The Open Research Knowledge Graph (ORKG) project works on answers and solutions to the next generation of digital libraries so that scholarly publications are semantically
