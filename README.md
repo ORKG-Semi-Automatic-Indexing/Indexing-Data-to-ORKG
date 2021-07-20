@@ -53,3 +53,4 @@ pip install bio
 
 
 ## License
+Code is under the BSD 2 Clause (NetBSC) license. For further information take a look at the License document in this repository.
