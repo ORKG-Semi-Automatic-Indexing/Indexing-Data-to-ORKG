@@ -17,8 +17,16 @@ describing their content and connect them to others. ORKG aims to describe resea
 
 
 ### Lessons learned 
-- 
-### Future construction sites also for others
+- Define research question at the beginning!
+- Expert discussions rather at the beginning 
+- Define work packages with output
+- Better communication with the TIB
+- Define what information is needed for the ORKG
+
+### Project continuation
+- Apply other research questions
+- Extract more paper
+- Automatic approach 
 
 ## License
 Code is under the BSD 2 Clause (NetBSC) license. For further information take a look at the License document in this repository.
