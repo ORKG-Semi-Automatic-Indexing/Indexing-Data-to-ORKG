@@ -1,4 +1,4 @@
-# Indexing Data to [https://www.orkg.org/orkg/]#(ORKG)
+# [Indexing Data to ORKG](https://www.orkg.org/orkg/)
 
 ## Question
 > ___"How do microbiomes behave in obesity?"___
