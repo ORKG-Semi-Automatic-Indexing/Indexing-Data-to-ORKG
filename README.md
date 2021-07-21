@@ -1,4 +1,4 @@
-# Indexing Data to [ORKG](https://www.orkg.org/orkg/)
+# Indexing Data into the [Open Research Knowledge Graph](https://www.orkg.org/orkg/)
 
 
 ### Goal description
