@@ -22,7 +22,9 @@ To add the contribution:research_problem a summarizing sentence about the questi
 
 ![triples](https://user-images.githubusercontent.com/49280839/126453487-e6e4fdeb-9f2f-48e9-adf5-216d6affa291.png)
 
-After the manual work is done the dataframe can be saved as csv and is ready to push. Pushing papers into the ORKG is simple, just two lines of code. After the push we can edit the papers everytime we want. <img src=https://user-images.githubusercontent.com/49280839/126453404-ee4660c1-dec8-45f1-812d-0ee35d39e4a8.png width=75% height=75%>
+After the manual work is done the dataframe can be saved as csv and is ready to push. Pushing papers into the ORKG is simple, just two lines of code. After the push we can edit the papers everytime we want. 
+
+<img src=https://user-images.githubusercontent.com/49280839/126453404-ee4660c1-dec8-45f1-812d-0ee35d39e4a8.png width=75% height=75%>
 
 
 ### Lessons learned 
