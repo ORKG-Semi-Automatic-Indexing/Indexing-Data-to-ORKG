@@ -28,6 +28,7 @@ After the manual work is done the dataframe can be saved as csv and is ready to 
 - Define work packages with output
 - Better communication with the TIB
 - Define what information is needed for the ORKG
+- Do more tests
 
 ### Project continuation
 - Apply other research questions
