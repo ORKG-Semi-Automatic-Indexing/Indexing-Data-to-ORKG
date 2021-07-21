@@ -1,9 +1,7 @@
-# [Indexing Data to ORKG](https://www.orkg.org/orkg/)
+# Indexing Data to [ORKG](https://www.orkg.org/orkg/)
 
-## Question
-> ___"How do microbiomes behave in obesity?"___
 
-## Goal description
+### Goal description
 The aim of the project was to extract the metadata of publications on the topic of microbiome obesity from the PubMed metadatabase using the Entrez API. The data was to be stored in a data frame and entered into the ORKG database. 
 
 ### What is ORKG?
